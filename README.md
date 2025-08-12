@@ -1,7 +1,9 @@
-# FundMe
+# About
 
 FundMe is an example smart contract made from the Cyfrin Updraft course.
 
-## License
+# Getting Started
 
-[MIT](https://choosealicense.com/licenses/mit/)
+## Requirements
+
+## Quickstart
